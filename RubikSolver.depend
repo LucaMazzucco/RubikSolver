@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508276541 source:d:\luca\programmi in c\rubiksolver\main.c
+	<stdio.h>
+	<stdlib.h>
+
